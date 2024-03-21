@@ -1,0 +1,10 @@
+C:\Users\hoaithuong\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\bin\Release\SerialPortListener.exe.config
+C:\Users\hoaithuong\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\bin\Release\SerialPortListener.exe
+C:\Users\hoaithuong\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\bin\Release\SerialPortListener.pdb
+C:\Users\hoaithuong\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Release\SerialPortListener.csproj.AssemblyReference.cache
+C:\Users\hoaithuong\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Release\SerialPortListener.MainForm.resources
+C:\Users\hoaithuong\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Release\SerialPortListener.Properties.Resources.resources
+C:\Users\hoaithuong\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Release\SerialPortListener.csproj.GenerateResource.cache
+C:\Users\hoaithuong\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Release\SerialPortListener.csproj.CoreCompileInputs.cache
+C:\Users\hoaithuong\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Release\SerialPortListener.exe
+C:\Users\hoaithuong\Downloads\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Release\SerialPortListener.pdb
